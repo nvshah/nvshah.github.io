@@ -2,11 +2,11 @@
 /* colors */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
 /* body */
-body {
+/* body {
   background: rgba(0, 0, 0, 0.9);
   font-family: 'Open Sans', sans-serif;
   /* links */
-}
+/*} */
 .nfl a, .mlb a, .nhl a{
   text-decoration: none;
   transition: color 0.2s ease-out;
@@ -31,8 +31,8 @@ body {
 }
 
 .wrapper {
-  width: fit-content(20em);
-  max-width: 1000px;
+  width: 100%;
+  max-width: auto;
   margin: 20px auto 100px auto;
   padding: 0;
   background: rgba(255, 255, 255, 0.1);
