@@ -39,6 +39,7 @@
   color: rgba(255, 255, 255, 0.9);
   overflow: hidden;
   position: relative;
+  font-family: 'Open Sans', sans-serif;
   /* lists */
 }
 .rowCustom ul {
