@@ -41,11 +41,11 @@
   position: relative;
   /* lists */
 }
-.row ul {
+.rowCustom ul {
   margin: 0;
   padding: 0;
 }
-.row ul li {
+.rowCustom ul li {
   margin: 0;
   font-size: 16px;
   font-weight: normal;
@@ -54,24 +54,15 @@
   width: 33.33%;
   box-sizing: border-box;
 }
-@media only screen and (max-width: 767px) and (min-width: 480px) {
-  .row ul li {
-    font-size: 13px;
-  }
-}
-@media only screen and (max-width: 479px) {
-  .row ul li {
-    font-size: 13px;
-  }
-}
-.title ul li {
+
+.titleCustom ul li {
   padding: 15px 13px;
 }
-.row ul li {
+.rowCustom ul li {
   padding: 5px 10px;
   /* rows */
 }
-.row {
+.rowCustom {
   padding: 20px 0;
   height: 30px;
   font-size: 0;
@@ -80,37 +71,24 @@
   transition: all 0.2s ease-out;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
-.row:hover {
+.rowCustom:hover {
   background-color: rgba(26, 26, 26, 0.9);
   height: 65px;
 }
-@media only screen and (max-width: 767px) {
-  .row:hover {
-    height: 85px;
-  }
-}
-@media only screen and (max-width: 359px) {
-  .row:hover {
-    height: 105px;
-  }
-}
-.title {
+
+.titleCustom {
   padding: 25px 0 5px 0;
   height: 45px;
   font-size: 0;
   background-color: rgba(255, 255, 255, 0.1);
   border-left: 3px solid rgba(255, 255, 255, 0.1);
 }
-.title:hover {
+.titleCustom:hover {
   height: 45px;
   background-color: rgba(255, 255, 255, 0.1);
   border-left: 3px solid rgba(255, 255, 255, 0.1);
 }
-@media only screen and (max-width: 767px) {
-  .title-hide {
-    display: none;
-  }
-}
+
 .nfl {
   border-left: 3px solid #1c616c;
 }
@@ -143,16 +121,7 @@
 .row-fadeIn-wrapper:hover {
   height: 35px;
 }
-@media only screen and (max-width: 767px) {
-  .row-fadeIn-wrapper:hover {
-    height: 55px;
-  }
-}
-@media only screen and (max-width: 359px) {
-  .row-fadeIn-wrapper:hover {
-    height: 75px;
-  }
-}
+
 .fadeIn {
   padding: 20px 0;
   font-size: 0;
@@ -190,11 +159,7 @@ ul.more-content li {
   color: rgba(128, 128, 128, 0.9);
   /* keyframe animations */
 }
-@media only screen and (max-width: 767px) {
-  ul.more-content li {
-    font-size: 11px;
-  }
-}
+
 @keyframes fadeIn {
   from {
     background: rgba(255, 255, 255, 0.1);
