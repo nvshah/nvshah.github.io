@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Education Backgrounds 
+{% include '/layouts/EducationalQualifications.html' %}
 
-[Project 1 Title](/sample_page)
+[Project ](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
