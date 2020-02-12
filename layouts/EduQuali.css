@@ -33,7 +33,7 @@
 .wrapperCustom {
   width: 100%;
   max-width: auto;
-  margin: 20px auto 100px auto;
+  margin: 10px auto 10px auto;
   padding: 0;
   background: rgba(255, 255, 255, 0.1);
   color: rgba(255, 255, 255, 0.9);
@@ -48,24 +48,34 @@
 }
 .rowCustom ul li {
   margin: 0;
-  font-size: 16px;
+  font-size: 12px;
   font-weight: normal;
   list-style: none;
   display: inline-block;
   width: 33.33%;
   box-sizing: border-box;
 }
+@media only screen and (max-width: 767px) and (min-width: 480px) {
+  .rowCustom ul li {
+    font-size: 9px;
+  }
+}
+@media only screen and (max-width: 479px) {
+  .rowCustom ul li {
+    font-size: 9px;
+  }
+}
 
 .titleCustom ul li {
-  padding: 15px 13px;
+  padding: 12px 10px;
 }
 .rowCustom ul li {
-  padding: 5px 10px;
+  padding: 3px 7px;
   /* rows */
 }
 .rowCustom {
   padding: 20px 0;
-  height: 30px;
+  height: 20px;
   font-size: 0;
   position: relative;
   overflow: hidden;
@@ -74,20 +84,35 @@
 }
 .rowCustom:hover {
   background-color: rgba(26, 26, 26, 0.9);
-  height: 65px;
+  height: 45px;
+}
+@media only screen and (max-width: 767px) {
+  .rowCustom:hover {
+    height: 85px;
+  }
+}
+@media only screen and (max-width: 359px) {
+  .rowCustom:hover {
+    height: 105px;
+  }
 }
 
 .titleCustom {
-  padding: 25px 0 5px 0;
-  height: 45px;
+  padding: 22px 0 2px 0;
+  height: 30px;
   font-size: 0;
   background-color: rgba(255, 255, 255, 0.1);
   border-left: 3px solid rgba(255, 255, 255, 0.1);
 }
 .titleCustom:hover {
-  height: 45px;
+  height: 30px;
   background-color: rgba(255, 255, 255, 0.1);
   border-left: 3px solid rgba(255, 255, 255, 0.1);
+}
+@media only screen and (max-width: 767px) {
+  .title-hide {
+    display: none;
+  }
 }
 
 .nfl {
@@ -120,11 +145,20 @@
   animation-fill-mode: forwards;
 }
 .row-fadeIn-wrapper:hover {
-  height: 35px;
+  height: 20px;
 }
-
+@media only screen and (max-width: 767px) {
+  .row-fadeIn-wrapper:hover {
+    height: 55px;
+  }
+}
+@media only screen and (max-width: 359px) {
+  .row-fadeIn-wrapper:hover {
+    height: 75px;
+  }
+}
 .fadeIn {
-  padding: 20px 0;
+  padding: 12px 0;
   font-size: 0;
   position: absolute;
   transition: all 0.2s ease-out;
@@ -142,7 +176,7 @@
   animation: fadeOut 0.4s ease-out 8s 1 alternate;
   animation-fill-mode: forwards;
   opacity: 1;
-  height: 65px;
+  height: 30px;
 }
 .row-fadeOut-wrapper:hover {
   height: 100px;
@@ -150,15 +184,20 @@
 }
 ul.more-content li {
   position: relative;
-  top: 20px;
-  font-size: 13px;
+  top: 7px;
+  font-size: 10px;
   margin: 0;
-  padding: 10px 13px 2px;
+  padding: 8px 10px 2px;
   display: block;
   height: 50px;
   width: 100%;
   color: rgba(128, 128, 128, 0.9);
   /* keyframe animations */
+}
+@media only screen and (max-width: 767px) {
+  ul.more-content li {
+    font-size: 7px;
+  }
 }
 
 @keyframes fadeIn {
