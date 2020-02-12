@@ -4,6 +4,8 @@
 
 ### Education Backgrounds 
 
+[Click Here to View Educational Details](/layouts/EducationalQualifications.html)
+
 [Project ](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
