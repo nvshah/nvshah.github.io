@@ -3,7 +3,6 @@
 ---
 
 ### Education Backgrounds 
-{% include '/layouts/EducationalQualifications.html' %}
 
 [Project ](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
