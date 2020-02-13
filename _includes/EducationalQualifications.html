@@ -4,15 +4,7 @@
       width="100%"
       frameborder="0"
       allowfullscreen=""
-      onload="resizeIframe(this)"
+      height="auto"
       scrolling="no">
   </iframe>
 </div>
-
-<script>
-  function resizeIframe(obj) {
-    setTimeout(function(obj){
-      obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
-    }, 15000);
-  }
-</script>
