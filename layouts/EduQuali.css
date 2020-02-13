@@ -57,12 +57,12 @@
 }
 @media only screen and (max-width: 767px) and (min-width: 480px) {
   .rowCustom ul li {
-    font-size: 10px;
+    font-size: 12px;
   }
 }
 @media only screen and (max-width: 479px) {
   .rowCustom ul li {
-    font-size: 10px;
+    font-size: 12px;
   }
 }
 
@@ -88,12 +88,12 @@
 }
 @media only screen and (max-width: 767px) {
   .rowCustom:hover {
-    height: 85px;
+    height: 65px;
   }
 }
 @media only screen and (max-width: 359px) {
   .rowCustom:hover {
-    height: 105px;
+    height: 95px;
   }
 }
 
@@ -149,12 +149,12 @@
 }
 @media only screen and (max-width: 767px) {
   .row-fadeIn-wrapper:hover {
-    height: 55px;
+    height: 25px;
   }
 }
 @media only screen and (max-width: 359px) {
   .row-fadeIn-wrapper:hover {
-    height: 75px;
+    height: 35px;
   }
 }
 .fadeIn {
@@ -196,7 +196,7 @@ ul.more-content li {
 }
 @media only screen and (max-width: 767px) {
   ul.more-content li {
-    font-size: 7px;
+    font-size: 8px;
   }
 }
 
@@ -209,14 +209,14 @@ ul.more-content li {
   to {
     background: rgba(51, 51, 51, 0.1);
     opacity: 1;
-    padding: 0 0 65px 0;
+    padding: 0 0 45px 0;
   }
 }
 @keyframes fadeOut {
   from {
     background: rgba(51, 51, 51, 0.1);
     opacity: 1;
-    height: 65px;
+    height: 45px;
   }
   to {
     background: rgba(255, 255, 255, 0.1);
