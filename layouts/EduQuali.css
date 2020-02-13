@@ -184,7 +184,7 @@
 }
 ul.more-content li {
   position: relative;
-  top: 7px;
+  top: 9px;
   font-size: 12px;
   margin: 0;
   padding: 8px 12px 2px;
@@ -196,7 +196,7 @@ ul.more-content li {
 }
 @media only screen and (max-width: 767px) {
   ul.more-content li {
-    font-size: 8px;
+    font-size: 10px;
   }
 }
 
