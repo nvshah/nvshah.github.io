@@ -1,8 +1,15 @@
-<div class="embed-container" style="background: rgba(0, 0, 0, 0.9)">
+<div class="embed-container">
   <iframe
       src="/layouts/EducationalQualifications.html"
-      width="700"
+      width="100%"
       frameborder="0"
-      allowfullscreen="">
+      allowfullscreen=""
+      onload="resizeIframe(this)">
   </iframe>
 </div>
+
+<script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+  }
+</script>

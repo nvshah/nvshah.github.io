@@ -48,7 +48,7 @@
 }
 .rowCustom ul li {
   margin: 0;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: normal;
   list-style: none;
   display: inline-block;
@@ -57,20 +57,20 @@
 }
 @media only screen and (max-width: 767px) and (min-width: 480px) {
   .rowCustom ul li {
-    font-size: 9px;
+    font-size: 10px;
   }
 }
 @media only screen and (max-width: 479px) {
   .rowCustom ul li {
-    font-size: 9px;
+    font-size: 10px;
   }
 }
 
 .titleCustom ul li {
-  padding: 12px 10px;
+  padding: 13px 10px;
 }
 .rowCustom ul li {
-  padding: 3px 7px;
+  padding: 4px 7px;
   /* rows */
 }
 .rowCustom {
@@ -185,9 +185,9 @@
 ul.more-content li {
   position: relative;
   top: 7px;
-  font-size: 10px;
+  font-size: 12px;
   margin: 0;
-  padding: 8px 10px 2px;
+  padding: 8px 12px 2px;
   display: block;
   height: 50px;
   width: 100%;
