@@ -62,7 +62,7 @@
 }
 @media only screen and (max-width: 479px) {
   .rowCustom ul li {
-    font-size: 12px;
+    font-size: 10px;
   }
 }
 
@@ -75,12 +75,17 @@
 }
 .rowCustom {
   padding: 20px 0;
-  height: 20px;
+  height: 30px;
   font-size: 0;
   position: relative;
   overflow: hidden;
   transition: all 0.2s ease-out;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+@media only screen and (max-width: 359px) {
+  .rowCustom {
+    height: 20px;
+  }
 }
 .rowCustom:hover {
   background-color: rgba(26, 26, 26, 0.9);
@@ -93,7 +98,7 @@
 }
 @media only screen and (max-width: 359px) {
   .rowCustom:hover {
-    height: 95px;
+    height: 35px;
   }
 }
 
@@ -104,6 +109,13 @@
   background-color: rgba(255, 255, 255, 0.1);
   border-left: 3px solid rgba(255, 255, 255, 0.1);
 }
+
+@media only screen and (max-width: 359px) {
+  .titleCustom {
+    height: 20px;
+    padding: 18px 0 2px 0;
+  }
+}
 .titleCustom:hover {
   height: 30px;
   background-color: rgba(255, 255, 255, 0.1);
@@ -112,6 +124,11 @@
 @media only screen and (max-width: 767px) {
   .title-hide {
     display: none;
+  }
+}
+@media only screen and (max-width: 359px) {
+  .titleCustom:hover {
+    height: 20px;
   }
 }
 
@@ -184,19 +201,19 @@
 }
 ul.more-content li {
   position: relative;
-  top: 9px;
+  top: 7px;
   font-size: 12px;
   margin: 0;
-  padding: 8px 12px 2px;
+  padding: 5px 12px 2px;
   display: block;
-  height: 50px;
+  height: 30px;
   width: 100%;
   color: rgba(128, 128, 128, 0.9);
   /* keyframe animations */
 }
 @media only screen and (max-width: 767px) {
   ul.more-content li {
-    font-size: 10px;
+    font-size: 8px;
   }
 }
 
