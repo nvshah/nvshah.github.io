@@ -216,6 +216,11 @@ ul.more-content li {
     font-size: 8px;
   }
 }
+@media only screen and (max-width: 359px) {
+  .row-fadeIn-wrapper:hover {
+    top: 2px;
+  }
+}
 
 @keyframes fadeIn {
   from {
