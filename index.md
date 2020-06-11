@@ -17,10 +17,12 @@
 2. [Nptel Programming Data Structure & Algorithms(2018) - **Rank 1**](https://nptel.ac.in/noc/courses/noc18/SEM2/noc18-cs34/)
 <br>
 : <img src="images/PDSA.png?raw=true"/>
+
 ---
+
 ### Technical Abilities
 
-## Programming languages
+#### Programming languages
 
 * Python
 * C#
