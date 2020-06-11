@@ -18,12 +18,19 @@
 <br>
 : <img src="images/PDSA.png?raw=true"/>
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Technical Abilities
+
+## Programming languages
+
+* Python
+* C#
+* Dart
+* C++
+* C
+* Java
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
