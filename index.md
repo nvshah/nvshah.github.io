@@ -22,21 +22,16 @@
 
 ### Technical Abilities
 
-#### Programming languages
-
-* Python
-* C#
-* Dart
-* C++
-* C
-* Java
+* Python     * Flutter
+* C#         * Unity
+* Dart       * Android App development
+* C          * Matlab
+* AR
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Projects](http://example.com/)
+- [Snippets](http://example.com/)
+- [Apps](http://example.com/)
