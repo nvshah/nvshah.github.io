@@ -8,6 +8,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Dance Athirst
   <br>
   Ping Pong Enthusiastic  
-  <br>
+  <br><br>
   <a href="https://in.linkedin.com/in/nipun-shah-666883159">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
