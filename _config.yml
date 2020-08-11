@@ -1,18 +1,13 @@
 title: Nipun Shah # your name (or website title) here
 logo: "/images/profileDP.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
-  // COGITO ERGO SUM //
-  <br>
   Eager Beaver
-  <br>
-  Nosy Parker
   <br>
   Responsible & Reliable
   <br>
   Dance Athirst
   <br>
   Ping Pong Enthusiastic  
-  <br><br>
+  <br>
   <a href="https://in.linkedin.com/in/nipun-shah-666883159">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
