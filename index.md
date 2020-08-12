@@ -2,7 +2,7 @@
 
 ---
 
-### Education Backgrounds 
+### Education Background
 
 {% include EducationalQualifications.html %}
 <!-- [Click Here to View Educational Details](/layouts/EducationalQualifications.html) -->
@@ -20,18 +20,17 @@
 
 ---
 
-### Technical Abilities
+### Technical Knowhow
 
-* Python    |  * Flutter
-* C#        |  * Unity
-* Dart      |  * Android App development
-* C         |  * Matlab
-* AR
+* Python, C#, Dart, C
+* Flutter, Unity, Android App development, Matlab
+* Machine Learning, AR
+* Data Structures, Algorith & Analysis
 
 ---
 
 ### Category Name 2
 
 - [Projects](http://example.com/)
-- [Snippets](http://example.com/)
+- [Snippets](https://gist.github.com/nvshah)
 - [Apps](http://example.com/)
