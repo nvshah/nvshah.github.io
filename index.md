@@ -22,10 +22,10 @@
 
 ### Technical Abilities
 
-* Python     * Flutter
-* C#         * Unity
-* Dart       * Android App development
-* C          * Matlab
+* Python    |  * Flutter
+* C#        |  * Unity
+* Dart      |  * Android App development
+* C         |  * Matlab
 * AR
 
 ---
