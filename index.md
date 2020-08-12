@@ -22,14 +22,14 @@
 
 ### Technical Knowhow
 
-* Python, C#, Dart, C
-* Flutter, Unity, Android App development, Matlab
-* Machine Learning, AR
-* Data Structures, Algorith & Analysis
+* Python,  C#,  Dart,  C
+* Flutter,  Unity,  Android App development,  Matlab
+* Machine Learning,  AR
+* Data Structures,  Algorithm & Analysis
 
 ---
 
-### Category Name 2
+### Stuffs
 
 - [Projects](http://example.com/)
 - [Snippets](https://gist.github.com/nvshah)
