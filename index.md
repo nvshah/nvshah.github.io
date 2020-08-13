@@ -20,7 +20,7 @@
 
 ---
 
-### Technical Knowhow
+### Technical Know-How
 
 * Python,  C#,  Dart,  C
 * Flutter,  Unity,  Android App development,  Matlab
