@@ -7,6 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   I'm curious enough kindaa person, always esurient seeking knowledge. Apart from this I am dance athirst & also love to play table tennis 
   <br><br>
-  <a href="https://in.linkedin.com/in/nipun-shah-666883159"><img src="https://img.icons8.com/color/24/000000/linkedin.png"/></a>
+  <a href="https://in.linkedin.com/in/nipun-shah-666883159" title="linked-in"><img src="https://img.icons8.com/color/24/000000/linkedin.png"/></a>
+  <a href="https://github.com/nvshah" title="github"><img src="https://img.icons8.com/material-sharp/24/000000/github.png"/></a>
+  <a href="https://github.com/nvshah"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="16" height="16"
+viewBox="0 0 172 172"
+style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#9b59b6"><path d="M26.875,21.5c-8.84221,0 -16.125,7.28279 -16.125,16.125v59.125h10.75v-43h129v80.625c0,3.02579 -2.34921,5.375 -5.375,5.375h-16.125v10.75h16.125c8.84221,0 16.125,-7.28279 16.125,-16.125v-96.75c0,-8.84221 -7.28279,-16.125 -16.125,-16.125zM26.875,32.25h118.25c3.02579,0 5.375,2.34921 5.375,5.375v5.375h-129v-5.375c0,-3.02579 2.34921,-5.375 5.375,-5.375zM64.24805,96.75l-11.67383,53.75h11.00195l11.67383,-53.75zM37.85596,97.23291l-26.39209,26.39209l26.39209,26.39209l7.60059,-7.60058l-18.7915,-18.79151l18.7915,-18.7915zM91.396,97.23291l-7.60059,7.60059l18.7915,18.7915l-18.7915,18.79151l7.60059,7.60058l26.39209,-26.39209z"></path></g></g></svg></a>
   <a href="https://www.canva.com/design/DAEEr1d6Np4/view">Resume</a>
 theme: jekyll-theme-minimal
