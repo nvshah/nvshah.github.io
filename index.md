@@ -31,6 +31,6 @@
 
 ### Stuffs
 
-- [Projects](http://example.com/)
+- [Projects](/temp.md)
 - [Snippets](https://gist.github.com/nvshah)
-- [Apps](http://example.com/)
+- [Apps](/temp.md)
