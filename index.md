@@ -20,19 +20,19 @@
 
 3. **Runner up** - Ingenium hackathon, 2018
 <br>
-: organised by School of Engineering & Applied Science, Ahmedabad University
-: Idea - Augmented Reality in banking sector
+: Organised by School of Engineering & Applied Science, Ahmedabad University
+: _**Idea**_ - Augmented Reality in banking sector
 : (1st in FINTECH department)
 
 4. **Runner up** - 'Think - Innovate - Present', 2018
 <br>
-: organised by Charusat University
-: Idea - Augmented Reality in banking sector
+: Organised by Charusat University
+: _**Idea**_ - Augmented Reality in banking sector
 
 5. **Grand Finale** - Smart Gujarat hackathon for new India, 2018
 <br>
-: department - Urban department
-: Idea - Automated Parking System
+: Department - Urban department
+: _**Idea**_ - Automated Parking System
 
 ---
 
