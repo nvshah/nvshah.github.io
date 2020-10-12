@@ -18,6 +18,21 @@
 <br>
 : <img src="images/PDSA.png?raw=true"/>
 
+3. **Ranked 2** - Ingenium hackathon, 2018
+<br>
+: organised by School of Engineering & Applied Science, Ahmedabad University
+  Idea - Augmented Reality in banking sector
+  (1st in FINTECH department)
+
+4. **Runner UP** - 'Think - Innovate - Present', 2018
+<br>
+: organised by Charusat University
+  Idea - Augmented Reality in banking sector
+
+5. **Grand Finale** - Smart Gujarat hackathon for new India, 2018
+<br>
+: department - Urban department
+  Idea - Automated Parking System
 ---
 
 ### Technical Know-How
@@ -31,6 +46,7 @@
 
 ### Stuffs
 
-- [Projects](/temp.md)
+- [Projects](/pages/college_projects.md)
 - [Snippets](https://gist.github.com/nvshah)
-- [Apps](/temp.md)
+- [Apps](/pages/apps.md)
+- [Vocab](/pages/words_1.md)
