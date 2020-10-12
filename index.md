@@ -22,7 +22,6 @@
 <br>
 : Organised by School of Engineering & Applied Science, Ahmedabad University
 : _**Idea**_ - Augmented Reality in banking sector
-: (1st in FINTECH department)
 
 4. **Runner up** - 'Think - Innovate - Present', 2018
 <br>
